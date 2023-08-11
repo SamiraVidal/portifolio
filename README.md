@@ -2,8 +2,6 @@
 
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://https://portifolio-drab-rho.vercel.app/index.html.png)
-
 ## Ferramentas utilizadas:
 
 * HTML
